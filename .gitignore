@@ -1,2 +1,3 @@
 # Ignore sensitive service account keys
-target/feedback-microservice/WEB-INF/classes/service-account-key.json
+feedback-microservice/src/main/resources/service-account-key.json
+target/classes/service-account-key.json
